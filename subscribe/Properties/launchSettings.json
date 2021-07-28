@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "subscribe": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CS": "HostName=testshared02.azure-devices-int.net;DeviceId=cosa2;SharedAccessKey=OTgyZWUyYzVjMzY5NGMwZWFiZjBjODQ1MjUwZGEwZjE="
+      }
+    }
+  }
+}
